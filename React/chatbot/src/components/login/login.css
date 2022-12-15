@@ -123,12 +123,13 @@
     position: absolute;
     top:30%;
     left:55%;
+    width:100%;
 }
 .side1{
     position: absolute;
     top:42%;
     left:61%;
-    font-size: 16px;
+    
 }
 
 .side2{
