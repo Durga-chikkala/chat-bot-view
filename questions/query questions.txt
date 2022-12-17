@@ -1,0 +1,200 @@
+?1.?	Query clarifier chat bot using machine ?
+learning
+
+
+?2.?	Possible  Queries For a Fresher :?
+
+?3.?	What is the placement count this year??
+?4.?	What is the placement count for previous year??
+?5.?	Which company has taken most number this year??
+?6.?	Which branch got the most placements this year??
+?7.?	Which branch got the most placements  previous  year??
+?8.?	What is the  percentage of students  attended to placed students??
+?9.?	How will be the range of package  for branches wise??
+?10.?	Is  attending most companies boosts us??
+?11.?	What is the minimum package every engineer will expect in this college??
+?12.?	What is the maximum package every engineer will expect in this college??
+?13.?	How will be the training for different companies??
+?14.?	Is attending every company is mandatory??
+?15.?	What is the training fee for placements??
+?16.?	What is the college fee for a convener student??
+?17.?	What is the college fee for a management student??
+?18.?	What is the college fee for a  student with no reimbursement ??
+?19.?	What is the building fee??
+?20.?	How much have to pay  the building fee for every year??
+?21.?	What is the university fee??
+?22.?	What is the tuition fee??
+?23.?	What is the mis fee-B??
+?24.?	How much fee for university fee in this college??
+?25.?	How much is the tuition fee for every semester??
+?26.?	What is the additional  fees have to pay for college every semester  ??
+?27.?	Is there any fine for paying  late fee in college??
+?28.?	? If we are staying in hostel what is hostel fee??
+?29.?	Is there any caution deposit in hostel??
+?30.?	What is the caution deposit amount in hostel??
+?31.?	What is the laundry fee in hostel??
+?32.?	Is there separate mess charges ??
+?33.?	If transport what is the charges for bus fee??
+?34.?	What is the bus fee how it will be considered??
+?35.?	Can we find the details for different places??
+?36.?	What is the date to be paid  ??
+?37.?	Is there any fine for bus fee if we are late ??
+?38.?	Can we pay the fee in terms or have to pay full amount??
+?39.?	Is there any decrease in amount if we take a leave for more days??
+?40.?	Is there any rules to be followed while paying amount??
+?41.?	What are the remaining fee that we  have to pay? ?
+?42.?	What is the fee  term plans for college ??
+?43.?	?  Can you explain the infrastructure of college??
+?44.?	What are the facilities in college??
+?45.?	Is there any roads for roaming for block to block??
+?46.?	Is there any power supplies for blocks ??
+?47.?	What is the importance of the infrastructure of a college??
+?48.?	Is there any smart classes In college ??
+?49.?	Is there any labs in college??
+?50.?	Is there any extra cultural activities in college??
+?51.?	Is there any canteens provided??
+?52.?	Is there any halls and parks in college areas??
+?53.?	Is there any telecommunications in college??
+?54.?	What are the groups in college??
+?55.?	What are the different criteria for  joining in a college??
+?56.?	How many branches are there in college??
+?57.?	What is the capacity for each branch??
+?58.?	Which branch has got highest capacity??
+?59.?	What is the strength of a class ??
+?60.?	What is the strength of the branch ??
+?61.?	? Is there batches for labs or projects in  classes ??
+?62.?	Is there any representative for class students??
+?63.?	Who will communicate between students and  teachers??
+?64.?	How will the information in class be passed??
+?65.?	How many staff representatives are there??
+?66.?	What tis the total count  of staff ??
+?67.?	What is the experience of  HOD sir ??
+?68.?	What is the  qualifications for teaching staff??
+?69.?	What is the  qualifications for  supporting staff??
+?70.?	What is the designation for teaching staff??
+?71.?	How many professor 's are there??
+?72.?	How many assistant professor 's are there in branches??
+?73.?	Is there any staff for supporting the professor 's??
+?74.?	What is the mode of teaching by professor's  in classes ??
+?75.?	Is there any separate timings for revision??
+?76.?	What are the sports conducted in college??
+?77.?	Is there any sports which played indoor??
+?78.?	Is there any sports which played outdoor ??
+?79.?	What are the different types of sports conducted??
+?80.?	Is there any records for  college in sports??
+?81.?	How many trainers are there in  college??
+?82.?	How many  students can participate??
+?83.?	Is there any separate time for practicing in college??
+?84.?	Is there any benefit of participating in the college sports ??
+?85.?	What is the procedure for participating ??
+?86.?	Which is more preferable indoor and outdoor games ??
+?87.?	What are the indoor games  in college??
+?88.?	What are the outdoor games in the college??
+?89.?	? Is playing games is safe for education ??
+?90.?	What are the most appropriate time  for playing indoor games??
+?91.?	What are the most appropriate time  for playing outdoor games??
+?92.?	What are the different places  games can be practiced??
+?93.?	What are the extra cultural activities in college??
+?94.?	What are the different types of  activities in college??
+?95.?	Is quiz is most important for a engineer ??
+?96.?	Is there any impact in extra cultural activities??
+?97.?	Is there any clubs in college regarding these activities??
+?98.?	Is there any arts in the college??
+?99.?	Will extra cultural activities are beneficial to students??
+?100.?	What will  be the procedures for joining extra cultural activities??
+?101.?	What branches will able to join in this extra cultural activities??
+?102.?	What are the different events  where extra cultural activities added??
+?103.?	What are the  activities  that are conducted in fest 's celebrated in  colleges??
+?104.?	What are the timings of the college??
+?105.?	What is the starting time of college??
+?106.?	What is the  end of the college in evening??
+?107.?	What is the timing of each period ??
+?108.?	What is the fine for coming late to the college??
+?109.?	Is there any permissions given for half day leave??
+?110.?	Is timing for every   year is same??
+?111.?	Is there any  year who can come out any time outside of  college??
+?112.?	What if as a fresher comes late to college??
+?113.?	Will freshers able to  come out of this college at any time ??
+?114.?	Who will give permission for coming out of college??
+?115.?	What time will college buses start at evening ??
+?116.?	How many buses are there for students??
+?117.?	Who co-ordinates the buses ??
+?118.?	What is the strength of bus ??
+?119.?	What if college bus is missed??
+?120.?	Is the drivers of buses are professional drivers??
+?121.?	Will buses go  at moderate speed ??
+?122.?	What do you take with you when moving into a college??
+?123.?	What are the electronic equipment required for college??
+?124.?	Are mobiles strictly prohibited??
+?125.?	Will mobiles be used in college??
+?126.?	What is the timings for using mobiles??
+?127.?	Will books be taken while going to college??
+?128.?	Is there library provided in the college??
+?129.?	What are the basic models of books available in the college library??
+?130.?	
+?131.?	? Things to do on or off the campus??
+?132.?	How to get there to particular place in college??
+?133.?	What type of classes will you take??
+?134.?	Finding the way for studying  different subjects??
+?135.?	Electronic devices like mobiles are permitted??
+?136.?	Special training for placements ??
+?137.?	About t hub??
+?138.?	T hub plan of action??
+?139.?	Cost for special courses ?
+?140.?	Mess timings in hostel
+?141.?	Events
+?142.?	Sports  permitted in  hostels
+?143.?	Things permitted to rooms
+?144.?	Room allotments
+?145.?	Outing ?
+?146.?	What's it like to be a first-year student here??
+?147.?	What's a typical day  of college like??
+?148.?	How much time do students spend studying per week??
+?149.?	What to do when staff  not in class??
+?150.?	What do you do on the weekends??
+?151.?	What is the social scene like??
+?152.?	What kinds of things are there to do in your school's hometown??
+?153.?	How's the food??
+?154.?	Do most students live on-campus??
+?155.?	Which clubs and student organizations are popular??
+?156.?	Do lots of students belong to  hostlers  or days scholar??
+?157.?	What's your favorite place on campus??
+?158.?	Where do you like to study??
+?159.?	What are the facilities like (labs, libraries, theatres, gyms, etc.)??
+?160.?	Are there enough computer labs??
+?161.?	How is the Wi Fi on campus??
+?162.?	Is it easy to get around campus??
+?163.?	Are sports popular??
+?164.?	Is there a lot of school spirit??
+?165.?	Are there many students from other countries??
+?166.?	Do students of different races and classes interact easily??
+?167.?	Canteen timings in hostel or college??
+?168.?	Hostel details
+?169.?	Transport details
+?170.?	Scholarship details
+?171.?	Faculty details and experience
+?172.?	Whom to contact for particular query like  regarding buses exams  office  ?
+certificates permissions .?
+?173.?	Placement orientations
+?174.?	Training scheduled timings
+?175.?	Highest packages
+?176.?	Minimal packages received per  student
+?177.?	Trending programs in t hub ?
+?178.?	Which technology  is better related to branch
+?179.?	Management seats will be there for each branch ??
+?180.?	Management seat  cost details??
+?181.?	Is there scholarship for management seats ?
+?182.?	Security ?
+?183.?	Cultural events in hostel
+?184.?	Club details
+?185.?	Facilities in hostel
+?186.?	College fame and rating ?
+?187.?	College certifications and credentials
+?188.?	Student staff interaction
+?189.?	Ragging
+?190.?	Level of coding knowledge required to join  t hub??
+?191.?	Mode of interviews??
+?192.?	Are classes  lecture based or discussions based??
+
+
+
