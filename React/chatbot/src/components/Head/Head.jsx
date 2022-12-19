@@ -14,8 +14,10 @@ function Home() {
           </div>
           <div className='home-right'>
             <div className='img'>
-                <Box img={girlImg} text="hii this is durga" className="head-box"/>
-                <img src={girlImg}  className="" alt=""/>
+              {/* <Box img={girlImg} text="hii this is durga" className="head-box"/>
+              <Box img={girlImg} text="hii this is durga" className="head-box"/>
+              <Box img={girlImg} text="hii this is durga" className="head-box"/> */}
+              <img src={girlImg}  className="" alt=""/>
             </div>
           </div>
         </div>
