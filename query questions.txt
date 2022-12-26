@@ -1,0 +1,506 @@
+1.    What is the placement count this year?
+2.    How  much should i pay for tuition fee?
+3.    How much is the college  strength ?
+4.	What is the placement count for the last three years?
+5.	Who has taken most number  of students this year?
+6.	Which department  got the most number of placements this year?
+7.	Which department  got the most  number of placements  in last three years?
+8.	What are the  required skills required to shortlist for placements?
+9.	How will be the range of package  for branches wise?
+10.	Is  attending most companies boosts us?
+11.	What is the minimum package every engineer will expect in this college?
+12.	What is the maximum package every engineer will expect in this college?
+13.	How will be the training for different companies?
+14.	Is attending every company is mandatory?
+15.	What is the training fee for placements?
+16.	What is the college fee for a convener student?
+17.	What is the college fee for a management student?
+18.	What is the college fee for a  student with no reimbursement ?
+19.	What is the building fee?
+20.	How much have to pay  the building fee for every year?
+21.	What is the university fee?
+22.	What is the tuition fee?
+23.	What is the mis fee-B?
+24.	How much fee for university fee in this college?
+25.	How much is the tuition fee for every semester?
+26.	What is the additional  fees have to pay for college every semester  ?
+27.	Is there any fine for paying  late fee in college?
+28.	If we are staying in hostel what is hostel fee?
+29.	Is there any caution deposit in hostel?
+30.	What is the caution deposit amount in hostel?
+31.	What is the laundry fee in hostel?
+32.	Is there separate mess charges ?
+33.	If transport what is the charges for bus fee?
+34.	What is the bus fee how it will be considered?
+35.	Can we find the detailed info about  for different bus routes?
+36.	What is the last  date for clearance of fees  ?
+37.	Is there any fine for bus fee if we are late ?
+38.	Can we pay the fee in terms or have to pay full amount?
+39.	Is there any decrease in amount if we take a leave for more days?
+40.	Is there any rules to be followed while paying amount?
+41.	What are the remaining fee that we  have to pay? 
+42.	What is the fee  term plans for college ?
+43.	Can you explain the infrastructure of college?
+44.	What are the facilities in college?
+45.	Is there any medical facilities in campus?
+46.	Is there any power supplies for blocks ?
+47.	What is the important requirements  for  a college student in campus?
+48.	Is there any smart classes In college ?
+49.	Is there any labs in college?
+50.	Is there any extra cultural activities in college?
+51.	Is there any canteens provided?
+52.	Is there any halls and parks in college areas?
+53.	Is there any telecommunications in college?
+54.	What are the groups in college?
+55.	What are the different criteria for  joining in a college?
+56.	How many branches are there in college?
+57.	What is the capacity for each branch?
+58.	Which branch has got highest capacity?
+59.	What is the strength of a class ?
+60.	What is the strength of the branch ?
+61.	Is there batches for labs or projects in  classes ?
+62.	Is there any representative for class students?
+63.	Who will communicate between students and  teachers?
+64.	How will the information in class be passed?
+65.	How many staff representatives are there?
+66.	What tis the total count  of staff in campus?
+67.	What is the experience of  HOD sir ?
+68.	What is the  qualifications for teaching staff?
+69.	What is the  qualifications for  supporting staff?
+70.	What is the designation for teaching staff?
+71.	How many professor ’s are there?
+72.	How many assistant professor ‘s are there in branches?
+73.	Is there any staff for supporting the professor ‘s?
+74.	What is the mode of teaching by professor’s  in classes ?
+75.	Is there any separate timings for revision?
+76.	What are the sports conducted in college?
+77.	Is there any sports which played indoor?
+78.	Is there any sports which played outdoor ?
+79.	What are the different types of sports conducted?
+80.	Is there any records for  college in sports?
+81.	How many trainers are there in  college?
+82.	How many  students can participate?
+83.	Is there any separate time for practicing in college?
+84.	Is there any benefit of participating in the college sports ?
+85.	What is the procedure for participating ?
+86.	Which is more preferable indoor and outdoor games ?
+87.	What are the indoor games  in college?
+88.	What are the outdoor games in the college?
+89.	Is playing games is safe for education ?
+90.	What are the most appropriate time  for playing indoor games?
+91.	What are the most appropriate time  for playing outdoor games?
+92.	Is there grounds to practice for games ?
+93.	What are the extra cultural activities  conducted in college?
+94.	What are the different types of  activities  conducted in college?
+95.   What are the different types of quiz ‘s conducted ?
+96.	Is there any impact in extra cultural activities?
+97.	Is there any clubs in college regarding these activities?
+98.	Is there any arts in the college?
+99.	Will extra cultural activities are beneficial to students?
+100.	What will  be the procedures for joining extra cultural activities?
+101.	What branches will able to join in this extra cultural activities?
+102.	What are the different events  where extra cultural activities added?
+103.	What are the  activities  that are conducted in fest ‘s celebrated in  colleges?
+104.	What are the timings of the college?
+105.	What is the starting time of college?
+106.	What is the  end of the college in evening?
+107.	What is the timing of each period ?
+108.	What is the fine for coming late to the college?
+109.	Is there any permissions given for half day leave?
+110.	Is timing for every   year is same?
+111.	Is there any  year who can come out any time outside of  college?
+112.	What if as a fresher comes late to college?
+113.	Will freshers able to  come out of this college at any time ?
+114.	Who will give permission for coming out of college?
+115.	What time will college buses start at evening ?
+116.	How many buses are there for students?
+117.	Who co-ordinates the buses ?
+118.	What is the strength of bus ?
+119.	What if college bus is missed?
+120.	Is the drivers of buses are professional drivers?
+121.	Will buses go  at moderate speed ?
+122.	What do you take with you when moving into a college?
+123.	What are the electronic equipment required for college?
+124.	Are mobiles strictly prohibited?
+125.	Will mobiles be used in college?
+126.	What is the timings for using mobiles?
+127.	Will books be taken while going to college?
+128.	Is there library provided in the college?
+129.	What are the basic models of books available in the college library?
+130.	How many blocks are there in library?
+131.	Things to do on or off the campus?
+132.	How to get there to particular place in college?
+133.	What type of classes will you take?
+134.	Finding the way for studying  different subjects?
+135.	Electronic devices like mobiles are permitted?
+136.	Special training for placements ?
+137.	What About t hub?
+138.	T hub plan of action?
+139.	What are the Cost for special courses ?
+140.	What are the Mess timings in hostel?
+141.	What are the events  in college?
+142.	What are the Sports  permitted in  hostels?
+143.	What are the Things permitted to rooms?
+144.	How will be  the Room allotments like?
+145.	Is there Outing every weak? 
+146.	What's it like to be a first-year student here?
+147.	What's a typical day  of college like?
+148.	How much time do students spend studying per week?
+149.	What to do when staff  not in class?
+150.	What do you do on the weekends?
+151.	What is the social scene like?
+152.	What kinds of things are there to do in your school's hometown?
+153.	How’s the food?
+154.	Do most students live on-campus?
+155.	Which clubs and student organizations are popular?
+156.	Do lots of students belong to  hostlers  or days scholar?
+157.	What's your favorite place on campus?
+158.	Where do you like to study?
+159.	What are the facilities like (labs, libraries, theatres, gyms, etc.)?
+160.	Are there enough computer labs?
+161.	How is the Wi Fi on campus?
+162.	Is it easy to get around campus?
+163.	Are sports popular or not popular?
+164.	Is there a lot of school spirit?
+165.	Are there many students from other countries?
+166.	Do students of different races and classes interact easily?
+167.	What are the Canteen timings in hostel or college?
+168.	What are the hostel details for fresher?
+169.	What are the  required Transport facilities for student?
+170.	What are the requirements of scholarship?
+171.	What are the faculty details and experience of faculty ?
+172.	Whom to contact for particular query like  regarding buses exams  office  certificates permissions ?
+173.	Is there any Placement orientations provided in campus?
+174.	What are Training scheduled timings in college?
+175.	What are the Highest packages in college?
+176.	What are Minimal packages received per  student?
+177.	What are Trending programs in t hub? 
+178.	Which technology  is better related to branch
+179.	Management seats will be there for each branch ?
+180.	What are the management seat cost details?
+181.	Is there scholarship for management seats ?
+182.	What are the Security details?
+183.	What are the Cultural events in hostel?
+184.	What are the Club details?
+185.	What are the Facilities in hostel?
+186.	 What is the College fame and rating? 
+187.	What are the College certifications and credentials?
+188.	How will be  the Student staff interaction?
+189.	Is ragging is there in campus?
+190.	Level of coding knowledge required to join  t hub?
+191.	Mode of interviews?
+192.	Are classes  lecture based or discussions based?
+193)	How much does the laundry cost for a month?
+194)	How the quantity of clothes is decided whether based on kgs or no-of pairs?
+195)	How many kgs of clothes can we give for laundry per month?
+196)	What is the maximum limit per month?
+197)	What are the different types available in laundry?
+198)	How long does it take to do laundry?
+199)	How much does the laundry cost for a year?
+200)	What is the laundry fee per month?
+201)	What are the companies visiting our campus in the next month?
+202)	What are the companies visiting our campus in the next week?
+203)	What is the next placement drive?
+204)	What is the job description of the company?
+205)	Do we need to apply or all are eligible?
+206)	When the company is established?
+207)	What is the role offered by the company?
+208)	What is the package offered by the company?
+209)	How will be the growth in the company?
+210)	What are the facilities provided for the employees?
+211)	How will be the work and working environment?
+212)	Is it a good company for a fresher to start his career?
+213)	How will be the career growth of a fresher?
+214)	How the employees are treated?
+215)	How many students got placed in this company last year?
+216)	What is the maximum count of students the company is willing to take this time?
+217)	Is the company offering the internship?
+218)	What are the topics that we should focus on?
+219)	When the company is conducting the drive?
+220)	What the company is expecting from the student?
+221)	What is the mode of the exam?
+222)	What we should prepare for interviews?
+223)	If the exam is online what will be the general requirements?
+224)	If the exam is offline at which block it will be conducted?
+225)	What are the documents we should carry?
+226)	What is the timing of the exam?
+227)	What is the minimum cgpa we should have?
+228)	What is the minimum percentage we should have?
+229)	Which branches are eligible?
+230)	Which branches are not eligible?
+231)	Is there any eligibility criteria?
+232)	What is the cutoff percentage ?
+233)	Is there any service agreement?
+234)	Any suggestions to crack this placement?
+235)	What are the details of the company?
+236)	Is the company a startup company?
+237)	If a startup company is it a good start for a fresher to work in startup companies?
+238)	What is Startup Company?
+239)	When we have to join the company if selected?
+240)	How many rounds are there?
+241)	What is the exam pattern?
+242)	How to prepare for the interviews?
+243)	What are the latest technologies?
+244)	What are new trends in software?
+245)	What are the different types of internships?
+246)	What type of questions will be asked in the interviews?
+247)	Are there any special classes that are conducted by technical hub?
+248)	Is it an on campus or off campus drive?
+249)	What are the previously asked questions?
+250)	What is the level of the exam?
+251)	What is the reason for not receiving mails ?
+252)	Why I can’t able to access my mail?
+253)	Why my college mail is not working?
+254)	If we didn’t receive mails whom should we contact?
+255)	What should I do if my college mail is not working?
+256)	What are the next upcoming placements drives?
+257)	On what dates other upcoming drives are scheduled?
+258)	Is there any special classes planned for upcoming drives?
+259)	What is the fee structure?
+260)	What is the total amount of the fee?
+261)	How much is the total fee?
+262)	How much fee we should pay for each semester?
+263)	Is the JVD amount is released?
+264)	What is the status of the JVD amount?
+265)	What is the remaining balance fee?
+266)	What is the total fee for next semester?
+267)	Is there extra fee for the text books provided?
+268)	Is there any fine for paying fee late?
+269)	What is the fine for late payment of fee?
+270)	How much is the exam fee?
+271)	Is there any fine for paying exam fee late?
+272)	How much fine we have to pay for paying fee late?
+273)	Are there any scholarships for engineering students?
+274)	What are the scholarships for engineering students?
+275)	What is the total fee for management students?
+276)	Are there any scholarships for non-reimbursement students?
+277)	Is there any concession provided for the management students?
+278)	What is the concession provided for non-reimbursement students?
+279)	How much fee should management students pay?
+280)	What factors they will consider for giving concession?
+281)	Can we apply for a new id card?
+282)	Is it possible to cancel bus transport?
+283)	How to cancel the bus transport?
+284)	How to apply for a new id card?
+285)	How can we get the buses details?
+286)	Whom to contact for bus transport details?
+287)	Whom to contact for placement related issues?
+288)	Who is the supervisor for buses?
+289)	What is the process for requesting original certificates?
+290)	What we have to do in case of a online payment issue?
+291)	Whom to contact for exams related issues?
+292)	Is it possible to take original certificate in case we want for some purpose?
+293)	Who will look after the examination section?
+294)	What are the timings of the library?
+295)	How many types of books are available in the library?
+296)	What is the process they follow for issuing a book?
+297)	How many days can we keep a book from a library?
+298)	What kind of collections are available in the library?
+299)	Can we access the library books online?
+300)	Who is the head of the library?
+301)	Is the online facility available for the library?
+302)	Is there any fine for late return of a book?
+303)	Is the fine same for every book?
+304)	In how many days do we have to return a book?
+305)	Do we get fined for returning library books late?
+306)	Can we visit library during class hours?
+307)	How much will be the fine for a book if returned after due date?
+308)	Can we renew a library book?
+309)	Can we pay the fine later?
+310)	Other than academic books what type of books are present?
+311)	Should we log in while entering the library?
+312)	Is there will be an internet facility in the library?
+313)	What is the fine per each day for a book?
+314)	What are the companies visited the campus recently?
+315)	Who are the recent recruiters?
+316)	What is the placement count till now?
+317)	How many students got placed till now this year?
+318)	How many companies recently visited the campus?
+319)	How many placement drives happened till now?
+320)	What is the performance of the students in the placement drives?
+321)	Did the count of students placed in a company increased or decreased compared to   last year?
+322)	List of seniors placed in different companies?
+323)	How many placements done in the previous year?
+324)	How many placements done in this year?
+325)	Is there any increase in the placements?
+326)	Is there any decrease in the placements?
+327)	Is there any change in the placements count compared to previous years?
+328)	Does placement depend on marks?
+329)	How is on campus placement different from off campus placement?
+330)	Does CGPA really matter at the time of placements?
+331)	What are the common questions asked in the interviews?
+332)	How much percentage is enough for placements?
+333)	What should we do to get a good placement?
+334)	How to balance academics and placements?
+335)	What are the benefits of campus placements?
+336)	How one can get highest package?
+337)	How to manage college and placement?
+338)	Which is important academics or placement?
+339)	How to handle college placement stress?
+340)	Does academics matter in placements?
+341)	Does placement depends on college or your skills?
+342)	How important are academics for placements?
+343)	What are the ways to manage academics with placements?
+344)	How many clubs are there in the college?
+345)	What are the different clubs in the college?
+346)	What programs are organized by the clubs?
+347)	What will the clubs do?
+348)	Is it necessary to join in clubs?
+349)	Do clubs help in placement?
+350)	What are club activities in college?
+351)	Why should we join a club?
+352)	How to start a club in the college?
+353)	What are the different student clubs?
+354)	How to manage academics and extracurricular activities?
+355)	What are the skills a student can acquire by participating in clubs?
+356)	What are the upcoming events?
+357)	What are extracurricular events?
+358)	How do extracurricular activities help students?
+359)	How co-curricular activities affect academic achievement?
+360)	Is there any special upcoming events?
+361)	Is there any celebrations in this week?
+362)	What is a startup?
+363)	What is the advantage of startups?
+364)	How do startups work?
+365)	Can a student initiate a startup?
+366)	What are the startups initiated in previous years?
+367)	Will the college management support the startup ideas?
+368)	Is there any support from the college side for startups?
+369)	What are the chances of successful startup?
+370)	Is there any startups initiated by seniors in previous years?
+371)	What is the name of the institution?
+372)	How many college campuses are there?
+373)	What is the name of the first campus?
+374)	What is the name of the second campus?
+375)	What is the name of the third campus?
+376)	What is the name of the principal in first campus?
+377)	Who is the principal of the first campus?
+378)	What is the name of the principal in second campus?
+379)	Who is the principal of the second campus?
+380)	What is the name of the principal in third campus?
+381)	Who is the principal of the third campus?
+382)	Who is the chairman of the institution? 
+383)	What is the count of staff for a branch?
+384)	How many staff members are there for each branch?
+385)	What is the count of total staff from each campus?
+386)	Is there any orientation sessions regarding career plans?
+387)	How many career orientation sessions conducted in the previous year?
+388)	What is the use of orientation sessions?
+389)	What are the topics discussed in the orientation sessions?
+390)	Will they conduct orientation sessions every year?
+391)	How the career orientation sessions help the students in deciding their career path?
+392)	Why career guidance is important for students?
+393)	What are the benefits of orientation programs for students?
+394)	Why is orientation program important in college?
+395)	What is the use of career guidance?
+396)	When will the orientation sessions conducted?
+397)	What is the use of attending a workshop?
+398)	What are the different types of workshops?
+399)	What workshops are conducted recently?
+400)	What are the upcoming workshops?
+401)	What is the mode of workshops conducted?
+402)	Is the workshops are online or offline?
+403)	Which types of workshops are most useful?
+404)	Is there any upcoming workshops?
+405)	What are the details of the upcoming workshops?
+406)	Do workshops give certificate?
+407)	What is the use of workshop certificate?
+408)	What is the fee for the workshops?
+409)	Is there any fee for workshops conducted?
+410)	How much fee we have to pay for a workshop?
+411)	Is there any special training class for placements?
+412)	Where we can learn the latest technologies?
+413)	Is there any facility provided by the college to learn coding and latest technologies?
+414)	What is technical hub?
+415)	When the technical hub is started?
+416)	What they will teach?
+417)	Who is the CEO of the technical hub?
+418)	What are the different trainings offered by the technical hub?
+419)	What is the main motive of starting the technical hub?
+420)	Is the technical hub for all-year students?
+421)	How many team members are there in technical hub?
+422)	What is the experience of the team members in technical hub?
+423)	In what fields the team members are experts?
+424)	What kind of programs technical hub offer?
+425)	What are the latest events conducting by the technical hub?
+426)	How their trainings help the students for placements?
+427)	What are the courses they offer?
+428)	What is the time duration of each course in technical hub?
+429)	How will be the training in the technical hub?
+430)	What is the feedback of the students who had taken the training?
+431)	What type of events they conduct for the students?
+432)	Is the technical hub is useful for the students?
+433)	What is the fee structure of each course offered by technical hub?
+434)	What are the timings of the training classes?
+435)	What programming languages will technical hub teach?
+436)	What are the latest technologies the technical hub is teaching?
+437)	What are the different programs conducted by the technical hub?
+438)	What is the cost for the programs conducted by the technical hub?
+439)	How will be the training classes conducted?
+440)	Are classes lecture-based or discussions based on placement preparations?
+441)	How will be the campus recruitment training conducted by the technical hub?
+442)	Is the campus recruitment training is helpful for students?
+443)	How the technical hub make the students prepared for placement interviews?
+444)	What is the feedback of the programs conducted by the technical hub?
+445)	What is the feedback for the teaching of the trainers of technical hub?
+446)	How will be the involvement of the trainers?
+447)	Is it mandatory to join in the technical hub?
+448)	What are the upcoming events conducted by the technical hub?
+449)	What is the schedule of the upcoming events?
+450)	How will be the teaching in technical hub?
+451)	Is it worth joining the technical hub?
+452)	Do the timings of academic classes and training classes collide?
+453)	How will be the interaction between the trainers and students?
+454)  who is the head of Aditya campus?
+455)  how will be teaching be like?
+456)  Is ragging is official or un -official?
+457)  How will be  the training in technical hub?
+458)  How will t hub staff teach?
+459)  What are the advantages of joining club?
+460)  what are the timings of t hub?
+461)  when will  the fine  will pay?
+462)  how will be the timings difference between t hub and normal classes?
+463)  what are the rules to follow while attending the college?
+464)  what are the workshops conducted in trainings?
+465)  what are the upcoming events conducted in technical hub?
+466)  what are the past records of the workshop?
+467)  what are the past recruiters conducted in  on -campus?
+468)  Is there any weak-end programming quiz in t hub?
+469)  Do workshops give certificate which useful for future?
+470)  Is there any course concession  in t hub ?
+471)  How will the courses  benefit  for the core we studied?
+472)  Can we create a mail  with same roll number?
+473)  How  will the access will be for students?
+474)  What are the Cultural events in college?
+475)	Who are the club members?
+476)	What are the Facilities in hostel?
+477)	What is the College fame and rating? 
+478)	What are the College certifications and credentials?
+479)  How will be  the Student staff interaction?
+480)	Is ragging is there in campus?
+481)	Level of coding knowledge required to join  t hub?
+482)	What is the Mode of interviews?
+483)	Are classes  lecture based or discussions based or orientation based?
+484)	How much does the laundry cost for a month per month ?
+485)	How will the quantity of clothes is decided whether based on kgs or no-of pairs?
+486)  How to cancel the bus transport?
+487)  How to apply for a new id card in campus ?
+488)	How can we get the buses details in time ?
+489)  Whom to contact for bus transport details?
+490)	Whom to contact for placement related issues?
+491)	Who is the supervisor for buses?
+492)	What is the process for requesting original certificates?
+493)	What we have to do in case of a online payment issue?
+494)	Whom to contact for exams related issues?
+495)	Is it possible to take original certificate in case we want for some purpose?
+496)  Who will look after the examination section?
+497)  Who will give hall tickets for students ?
+498)  can we see the block diagram of college?
+499)  who is head of the examination section?
+500)  what is the solution for online payment related issues?
+
+
+
+
+
+
