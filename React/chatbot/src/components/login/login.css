@@ -1,146 +1,139 @@
 .login{
-    overflow: hidden;
+    display: flex;
 }
-.main-circle{
+.login-right{
+    flex:0.5;
+    background-color: #15A69D;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.login-top{
+    position: relative;
+    height: 100%;
+}
+.login-top img{
     position: absolute;
-    top:30%;
-    left:30%;
-    width:400px;
-    height:300px;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%,-10%);
+}
+.login-top p{
+    
+    position: absolute;
+    height: 55px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 48px;
+    line-height: 64px;
+
+    color: #FFFFFF;
+}
+
+.login-below p{
+    position: absolute;
+    left:50%;
+    top: 80%;
+    transform: translate(-50%,-70%);
+
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 43px;
+
+    color: #FFFFFF;
+
+}
+
+.login-below .button{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 50%;
+    top: 90%;
+    border:none;
+    color: #FFFFFF;
+    background: #15A69D;
+    box-shadow: -1px 1px 2px rgba(23, 133, 128, 0.2), 1px -1px 2px rgba(9, 223, 212, 0.2), -1px -1px 2px rgba(34, 255, 251, 0.9), 1px 1px 3px rgba(8, 66, 63, 0.9), inset 1px 1px 2px rgba(34, 255, 251, 0.3), inset -1px -1px 2px rgba(8, 66, 63, 0.5);
+    border-radius: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 29px;
+    color: #FFFFFF; 
+    transform: translate(-50%,-90%);
+    transition-delay: 1s;
+    
+}
+
+.login-below .button:hover{
+   
+    box-shadow: -1px  1px 2px rgba(23, 133, 128, 0.2),  1px  -1px 2px rgba(9, 223, 212, 0.2),inset -1px -1px 2px rgba(34, 255, 251, 0.9), inset 1px 1px 3px rgba(8, 66, 63, 0.9), inset 1px 1px 2px rgba(34, 255, 251, 0.3),  -1px -1px 2px rgba(8, 66, 63, 0.5);
+    cursor: pointer;
+}
+.login-left{
+    flex:0.5;
+    height: 100vh;
+    background: #dde1e7;
+
+    width: 100%;
+    position: relative;
+}
+.login-left .login-box{
+    padding: 40px;
+    box-sizing: border-box;
+    position: absolute;
+    background: #dde1e7;
+    width: 60%;
+    height: 70%;
+    left: 89px;
+    top: 20%;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+    border-radius: 43px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    z-index: 10;
 }
-.main-circle .field{
-    height: 50px;
+
+.login-left .login-box input{
     width: 80%;
-    display: flex;
-    position: relative;
-  }
-
-  .main-circle h1{
-   position: relative;
-   top:20px;
-  }
-  
-  .field input{
-    height: 100%;
-    width: 100%;
-    padding-left: 45px;
-    font-size: 18px;
-    outline: none;
+    padding: 20px;
+    border-radius: 50px;
     border: none;
-    color: #0a0a0a;
-    background: #fcfeff;
-    border-radius: 25px;
-    box-shadow: inset 2px 2px 5px #babecc,
-                inset -5px -5px 10px #ffffff73;
-  }
-  
-  .field input:focus ~ label{
-    box-shadow: inset 2px 2px 5px #babecc,
-                inset -1px -1px 2px #ffffff73;
-  }
-  
-  .field:nth-child(2){
     margin-top: 20px;
-  }
-  
-  .field span{
-    position: absolute;
-    width: 50px;
-    line-height: 50px;
-    color: #595959;
-  }
-  
-  .field label{
-    position: absolute;
-    top: 50%;
-    left: 45px;
-    pointer-events: none;
-    color: #666666;
-    transform: translateY(-50%);
-  }
-  
-  
-  .field input:focus ~ label{
-    opacity: 0;
-  }
-.button-71 {
-  width:40%;
-  height:50px;
-  background-color: #0078d0;
-  border: 0;
-  border-radius: 56px;
-  color: #fff;
-  cursor: pointer;
-  font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
-  font-size: 18px;
-  font-weight: 600;
-  outline: 0;
-  position: relative;
-  text-align: center;
-  text-decoration: none;
-  transition: all .3s;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
+    background: #dde1e7;
+    outline: none;
+    font-size: 16px;
+    box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
 }
 
-.button-71:before {
-  background-color: initial;
-  background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
-  border-radius: 125px;
-  content: "";
-  height: 50%;
-  left: 4%;
-  opacity: .5;
-  position: absolute;
-  top: 0;
-  transition: all .3s;
-  width: 92%;
-}
-
-.button-71:hover {
-  box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
- 
-}
-.svg{
-    position: absolute;
-    top:10%;
-    left:20%;
+.login-left .button{
+    width: 200px;
+    height: 50px;
+   cursor: pointer;
+    border:none;
+    color: #FFFFFF;
+    background: #15A69D;
+    box-shadow: -1px 1px 2px rgba(23, 133, 128, 0.2), 1px -1px 2px rgba(9, 223, 212, 0.2), -1px -1px 2px rgba(34, 255, 251, 0.9), 1px 1px 3px rgba(8, 66, 63, 0.9), inset 1px 1px 2px rgba(34, 255, 251, 0.3), inset -1px -1px 2px rgba(8, 66, 63, 0.5);
+    border-radius: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 29px;
+    color: #FFFFFF; 
    
-}
-.svg1{
-    position: absolute;
-    top:50%;
-    left:55%;
+    transition-delay: 1s;
 }
 
-.svg3{
-    position: absolute;
-    top:30%;
-    left:55%;
-    width:100%;
-}
-.side1{
-    position: absolute;
-    top:42%;
-    left:61%;
-    
-}
-
-.side2{
-    position: absolute;
-    top:65%;
-    left:61%;
-    font-weight: bold;
-    
-}
-@media (min-width: 768px) {
-  .button-71 {
-    padding: 16px 48px;
-  }
+.login-box .text{
+    text-align: center;
 }

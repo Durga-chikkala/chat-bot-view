@@ -11,8 +11,8 @@ function Navbar() {
         </div>
         <div className='nav-right'>
           <li>Home</li>
-          <li>Feed</li>
-          <li>login/signup</li>
+          <li>Chat</li>
+          <li>About us</li>
         </div>
       </ul>
     </div>

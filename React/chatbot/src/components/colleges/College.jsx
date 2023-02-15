@@ -11,22 +11,26 @@ function College() {
             <div className='college-img'>
               <img src={first} alt=""/>
             </div>
-            <h5>ADTP</h5>
-            <button className='button grid'>know more</button>
-        </div>
+            <h5>Aditya Engineering College </h5>
+            <p>It is approved by AICTE, recognized by Govt. of Andhra Pradesh, permanently affiliated to (JNTUK).</p>
+            <button class="button-71" > Know More</button>      
+            </div>
         <div className='college-block'>
             <div className='college-img'>
               <img src={second} alt=""/>
             </div>
-            <h5>ACET</h5>
-            <button className='button grid'>know more</button>
+            <h5>ADITYA COLLEGE OF ENGINEERING & TECHNOLOGY</h5>
+            <p>It is approved by AICTE, recognized by Govt. of Andhra Pradesh, permanently affiliated to (JNTUK).</p>
+            <button class="button-71" > Know More</button>      
         </div>
         <div className='college-block'>
             <div className='college-img'>
               <img src={third} alt=""/>
             </div>
-            <h5>ACES</h5>
-            <button className='button grid'>know more</button>
+            <h5>ADITYA COLLEGE OF ENGINEERING</h5>
+            <p>It is approved by AICTE, recognized by Govt. of Andhra Pradesh, permanently affiliated to (JNTUK).</p>
+
+            <button class="button-71" > Know More</button>      
         </div>
     </div>
   )
