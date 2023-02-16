@@ -13,7 +13,7 @@ function College() {
             </div>
             <h5>Aditya Engineering College </h5>
             <p>It is approved by AICTE, recognized by Govt. of Andhra Pradesh, permanently affiliated to (JNTUK).</p>
-            <button class="button-71" > Know More</button>      
+            <button class="button-71" > <a href={"https://aec.edu.in"}>Know More</a></button>      
             </div>
         <div className='college-block'>
             <div className='college-img'>
@@ -21,7 +21,7 @@ function College() {
             </div>
             <h5>ADITYA COLLEGE OF ENGINEERING & TECHNOLOGY</h5>
             <p>It is approved by AICTE, recognized by Govt. of Andhra Pradesh, permanently affiliated to (JNTUK).</p>
-            <button class="button-71" > Know More</button>      
+            <button class="button-71" > <a href={"https://acet.ac.in"}>Know More</a></button>      
         </div>
         <div className='college-block'>
             <div className='college-img'>
@@ -30,7 +30,7 @@ function College() {
             <h5>ADITYA COLLEGE OF ENGINEERING</h5>
             <p>It is approved by AICTE, recognized by Govt. of Andhra Pradesh, permanently affiliated to (JNTUK).</p>
 
-            <button class="button-71" > Know More</button>      
+            <button class="button-71" > <a href={"https://acoe .edu.in"}>Know More</a></button>      
         </div>
     </div>
   )
