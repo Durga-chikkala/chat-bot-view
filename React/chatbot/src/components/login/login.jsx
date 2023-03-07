@@ -1,13 +1,16 @@
 import React from 'react'
 import "./login.css"
 import Loginlogo from "../../images/login-logo.png"
-import { useState } from 'react'
-import Home from '../Home/Home'
-import { Link, Route } from 'react-router-dom';
+import { useState ,useEffect} from 'react'
+import {useNavigate } from 'react-router-dom';
 
 function Login() {
+  const navigate=useNavigate()
   const [email, setEmail] = useState("");
   const [password,setPassword]=useState("");
+  const [clickSignup, setClickSignUp] = useState(false);
+  const [error,setError]=useState(false)
+
   async function handleSubmit(e){
     e.preventDefault();
     let params = {
@@ -19,30 +22,46 @@ function Login() {
                  .map(k => encodeURIComponent(k) + '=' + encodeURIComponent(params[k]))
                  .join('&');
     
-  let url = 'http://localhost:4000/login?' + query;
-  let response=await fetch(url)
-  const data = await response.json()
-  if (data.user) {
-    alert("done")
-      window.location.href='../Home'
+  let url = 'http://localhost:8000/user/login?' + query;
+  let response=await fetch(url,{
+    method: 'get',
+    dataType: 'jsonp',
+    headers: {
+       'Accept': 'application/json',
+       'Content-Type': 'application/json'
     }
-    else {
-      alert("plz check")
+})
+  const data = await response.json()
+  console.log(data)
+  if (data.id!==undefined) {
+    navigate("/home",{replace:true})
+  }
+  else {
+      setError(true)
     }
   }
+
+  useEffect(() => {
+   if(error){
+     document.getElementById("error").innerHTML="Oops I guess you missed out something in credentials"
+   }
+   console.log(clickSignup)
+  }, []);
+  
+
   return (
-    <div>
-      <form onSubmit={handleSubmit}  className='login'>
+    <div className='login'>
        <div className="login-left">
-          <div className='login-box'>
+          <form onSubmit={handleSubmit} className='login-box'>
             <div className='text'>
               <h1>Chat.in</h1>
               <p>Hey, How do you do ?</p>
+              <p id="error" className={setError?"not-error":"error"}></p>
             </div>
              <input type="text" placeholder='enter email' value={email} onChange={(e)=>setEmail(e.target.value)}></input>
              <input type="password" placeholder='enter password' value={password} onChange={(e)=>setPassword(e.target.value)}></input>
              <button className='button'>Login</button>
-          </div>
+          </form>
        </div>
        <div className="login-right">
         <div className='login-top'>
@@ -51,10 +70,9 @@ function Login() {
         </div>
         <div className='login-below'>
           <p>Don't have an account</p>
-        <button className='button'>Signup</button>
+          <button onClick={() => setClickSignUp(true)} className='button'>Signup</button>
         </div>
        </div>
-       </form>
        </div>
   )
  
