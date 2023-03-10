@@ -1,0 +1,254 @@
+*{
+  color: aliceblue;
+}
+
+/* :root{
+    font-size: 18px;
+}
+
+.navbar{
+    width:100%;
+    margin:auto;
+    height:80px;
+    box-sizing: border-box;
+    background: #409494;
+    color:rgb(253, 250, 250);
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+}
+
+.nav{
+    width:70%;
+    height:100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    margin: auto;
+}
+
+.nav-left{
+    font-size: 1.7rem;
+    font-weight: bold;
+    
+}
+
+.nav-right{
+    font-size: 1rem;
+    flex:0.3;
+    display: inline-flex;
+    justify-content: space-between;
+    
+    align-items: center;
+}
+
+.nav-right li:hover{
+   font-weight: bold;
+   cursor: pointer;
+} */
+
+
+/* 
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#369F9D;
+    color: #fff;
+    height: 80px;
+    width: 100%;
+    padding: 0 20px;
+    text-decoration: none;
+  }
+  
+  .logo1 {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  
+  .menu-button1 {
+    display: none;
+  }
+  
+  .menu-button1.open {
+    display: block;
+    cursor: pointer;
+  }
+  
+  .toggle-button1 {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 5px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+    color: aqua;
+  }
+  
+  @media (max-width: 768px) {
+    .menu-button1 {
+      display: block;
+      cursor: pointer;
+    }
+  
+    .nav-links {
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      height: calc(100vh - 60px);
+      background-color: #369F9D;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      opacity: 0;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .nav-links.open {
+      opacity: 1;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .nav-links li {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+  
+    .nav-links a {
+      font-size: 19px;
+    }
+  } */
+  /* .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    list-style: none;
+    margin: 0;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  .nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  @media screen and (max-width: 991px) {
+    .navbar-nav {
+      flex-direction: column;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #333;
+      width: 100%;
+      padding: 0;
+      display: none;
+    }
+  
+    .navbar-nav.show {
+      display: flex;
+    }
+  
+    .nav-item {
+      width: 100%;
+      margin: 0.5rem 0;
+    }
+  
+    .nav-link {
+      text-align: center;
+      padding: 1rem;
+      border-bottom: 1px solid #fff;
+    }
+  
+    .navbar-toggler {
+      border: none;
+      background-color: #333;
+      color: #fff;
+      cursor: pointer;
+      display: block;
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin: 0 auto;
+      padding: 1rem;
+      text-align: center;
+      width: 100%;
+    }
+  }
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+  }
+  
+  .navbar-nav li {
+    margin: 0 10px;
+  }
+   */
+
+   .navbar-toggler {
+    border: none;
+    
+    
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  
+  .navbar-nav {
+    margin-right: 0;
+  }
+  
+  .navbar-nav .nav-link {
+    padding: 1rem;
+  }
+
+  .hello{
+    color: aliceblue;
+  }
+  
