@@ -3,8 +3,7 @@ import "./login.css"
 import Loginlogo from "../../images/login-logo.png"
 import { useState ,useEffect} from 'react'
 import {useNavigate } from 'react-router-dom';
-import Navbar from '../Navbar/Navbar';
-import Footer from '../Footer/Footer';
+
 
 
 function Login() {
@@ -55,7 +54,7 @@ function Login() {
   return (
     <div>
       <div>
-          <Navbar />
+          
           </div>
    <div>
     <div className='login'>
@@ -84,7 +83,7 @@ function Login() {
        </div>
        </div>
        </div>
-       <Footer />
+        
        </div>
   )
  

@@ -42,7 +42,7 @@ function ChatWindow(props ) {
 
     return (
 
-        <div style={{backgroundColor:'#369F9D'}}> 
+        <div style={{backgroundColor:'#15A69D'}}> 
            
             <div>
                 <Navbar />
@@ -55,7 +55,7 @@ function ChatWindow(props ) {
                     justifyContent: "center",
                     alignItems: "center",
                     height: '87.5vh',
-                    backgroundColor: '#024140',
+                    backgroundColor: ' #15A69D',
                     paddingTop: '10px',
                     fontSize: '14px',
                 }}>

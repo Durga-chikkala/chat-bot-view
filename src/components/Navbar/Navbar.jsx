@@ -22,10 +22,10 @@ const NavigationBar = () => {
           
 
         }}>
-        <Nav.Link as={Link} to="/" style={{color:'white'}}>Home</Nav.Link>         
-        <Nav.Link as={Link} to="/chatportal" style={{color:'white'}}>ChatPortal</Nav.Link>
-        <Nav.Link as={Link} to="/login"style={{color:'white'}}>Login</Nav.Link>
-        <Nav.Link as={Link} to="/signup"style={{color:'white'}}>SignUp</Nav.Link>
+        <Nav.Link as={Link} to="/" style={{color:'white',cursor:'pointer'}}>Home</Nav.Link>         
+        <Nav.Link as={Link} to="/chatportal" style={{color:'white',cursor:'pointer'}}>ChatPortal</Nav.Link>
+        <Nav.Link as={Link} to="/login"style={{color:'white',cursor:'pointer'}}>Login</Nav.Link>
+        <Nav.Link as={Link} to="/signup"style={{color:'white',cursor:'pointer'}}>SignUp</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
