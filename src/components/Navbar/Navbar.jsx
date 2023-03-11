@@ -22,7 +22,7 @@ const NavigationBar = () => {
           
 
         }}>
-        <Nav.Link as={Link} to="/" style={{color:'white',cursor:'pointer'}}>Home</Nav.Link>         
+        <Nav.Link as={Link} to="/Home" style={{color:'white',cursor:'pointer'}}>Home</Nav.Link>         
         <Nav.Link as={Link} to="/chatportal" style={{color:'white',cursor:'pointer'}}>ChatPortal</Nav.Link>
         <Nav.Link as={Link} to="/login"style={{color:'white',cursor:'pointer'}}>Login</Nav.Link>
         <Nav.Link as={Link} to="/signup"style={{color:'white',cursor:'pointer'}}>SignUp</Nav.Link>

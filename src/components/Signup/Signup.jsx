@@ -3,8 +3,7 @@ import "../login/login.css";
 import "./Signup.css";
 import {useToken} from '../login/useToken';
 import axios from 'axios'; 
-import NavBar from '../Navbar/Navbar'
-import Footer from '../Footer/Footer';
+
 import Loginlogo from "../../images/login-logo.png"
 import { useState } from 'react'
 
@@ -39,7 +38,7 @@ function Signup() {
 
   return (
     <div>
-      <NavBar />
+  
     <div>
         <form onSubmit={handleSubmit}  className='login'>
         <div className="login-right">
@@ -49,7 +48,10 @@ function Signup() {
         </div>
         <div className='login-below'>
           <p>Already have an account</p>
-          <button className='button'>Login</button>
+          <button className='button' ><a 
+          style={{
+            color:'white'
+          }}href="/login">  Login</a></button>
         </div>
        </div>
        <div className="login-left signup">
@@ -64,13 +66,13 @@ function Signup() {
              <input type="text" placeholder='enter Phone' value={phone} onChange={(e)=>setPhone(e.target.value)}></input>
              <input type="date" placeholder='enter Dob' value={dob} onChange={(e)=>setDob(e.target.value)}></input>
              <input type="password" placeholder='enter password' value={password} onChange={(e)=>setPassword(e.target.value)}></input>
-             <button className='button' >Signup</button>
+             <button className='button'  >  Signup</button>
           </div>
        </div>
       
        </form>
     </div>
-    <Footer />
+
     </div>
   )}
 

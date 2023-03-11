@@ -4,6 +4,8 @@
     box-sizing: border-box;
     box-shadow: -1px -1px 2px rgba(50, 148, 146, 0.2), 1px 1px 2px rgba(50, 148, 146, 0.2), -1px 1px 2px rgba(58, 170, 168, 0.9), 1px -1px 3px rgba(50, 148, 146, 0.9), inset 1px -1px 2px rgba(58, 170, 168, 0.3), inset -1px 1px 2px rgba(50, 148, 146, 0.5);
     border-radius: 70px;
+    height: 10%;
+    width: 120px;
     border: none;
     outline: none;
 }

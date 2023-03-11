@@ -78,7 +78,9 @@ function Login() {
         </div>
         <div className='login-below'>
           <p>Don't have an account</p>
-          <button onClick={() => setClickSignUp(true)} className='button'>Signup</button>
+          <button onClick={() => setClickSignUp(true)} className='button' ><a style={{
+            color:'white'
+          }} href="/signup">  SignUp</a></button>
         </div>
        </div>
        </div>
