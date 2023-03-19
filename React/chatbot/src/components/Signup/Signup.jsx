@@ -3,13 +3,15 @@ import "../login/login.css";
 import "./Signup.css";
 import {useToken} from '../login/useToken';
 import axios from 'axios'; 
+import { useState ,useEffect} from 'react'
+import {useNavigate } from 'react-router-dom';
 
 import Loginlogo from "../../images/login-logo.png"
-import { useState } from 'react'
 
 function Signup() {
+  const navigate=useNavigate()
     const [token,setToken]=useToken()
-
+    const [clickSignup, setClickSignUp] = useState(false);
     const [firstName, setName] = useState("");
     const [lastName,setLastName]=useState("");
     const [email, setEmail] = useState("");
@@ -36,6 +38,14 @@ function Signup() {
       
     }
 
+    useEffect(() => {
+      if (clickSignup){
+        navigate("/")
+      }
+     
+    }, [clickSignup]);
+    
+
   return (
     <div>
         <form onSubmit={handleSubmit}  className='login'>
@@ -46,7 +56,7 @@ function Signup() {
         </div>
         <div className='login-below'>
           <p>Already have an account</p>
-          <button className='button'>Login</button>
+          <button className='button' onClick={() => setClickSignUp(true)}>Login</button>
         </div>
        </div>
        <div className="login-left signup">

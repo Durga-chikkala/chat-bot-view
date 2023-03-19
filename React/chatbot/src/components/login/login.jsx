@@ -3,6 +3,7 @@ import "./login.css"
 import Loginlogo from "../../images/login-logo.png"
 import { useState ,useEffect} from 'react'
 import {useNavigate } from 'react-router-dom';
+import useFetch from '../useFetch/useFetch';
 
 function Login() {
   const navigate=useNavigate()
@@ -23,30 +24,15 @@ function Login() {
                  .join('&');
     
   let url = 'http://localhost:8000/user/login?' + query;
-  let response=await fetch(url,{
-    method: 'get',
-    dataType: 'jsonp',
-    headers: {
-       'Accept': 'application/json',
-       'Content-Type': 'application/json'
-    }
-})
-  const data = await response.json()
-  console.log(data)
-  if (data.id!==undefined) {
-    navigate("/home",{replace:true})
-  }
-  else {
-      setError(true)
-    }
+
   }
 
   useEffect(() => {
-   if(error){
-     document.getElementById("error").innerHTML="Oops I guess you missed out something in credentials"
-   }
-   console.log(clickSignup)
-  }, []);
+    if (clickSignup){
+      navigate("/signup")
+    }
+   
+  }, [clickSignup]);
   
 
   return (

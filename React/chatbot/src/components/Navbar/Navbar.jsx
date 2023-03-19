@@ -1,20 +1,24 @@
 import React from 'react'
 import './Navbar.css'
+import {NavLink} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Navbar() {
   return (
     <div className="navbar">
-      <ul className='nav'>
+      <div className='nav'>
         <div className='nav-left'>
-          <li>chat.in</li>
+          <div>chat.in</div>
         </div>
         <div className='nav-right'>
-          <li>Home</li>
-          <li>Chat</li>
-          <li>About us</li>
+          <NavLink to="/home" className="link">Home</NavLink>
+          <NavLink to="/chat" className="link">Chat</NavLink>
+          <NavLink to="/about-us" className="link">About us</NavLink>
+          <div className='logout'>
+            logout
+          </div>
         </div>
-      </ul>
+      </div>
     </div>
   )
 }
