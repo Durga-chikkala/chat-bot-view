@@ -25,15 +25,18 @@ function Signup() {
         "firstName":firstName,
         "lastName":lastName,
         "dob":dob,
-        "gender":"male",
+        "gender":"MALE",
         "phone":phone,
         "email":email,
         "password":password
       });
 
-      const {token}= response.data;
+      console.log(response)
 
-      setToken(token);
+      if(response.data.id!=""){
+        navigate("/")
+      }
+
 
       
     }
