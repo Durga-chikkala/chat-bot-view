@@ -8,7 +8,7 @@ function ProfileCard(props) {
            <img src={props.img} alt="fff"/>
         </div>
         <div className='profile-desc'>
-           <h3>{props.name}</h3>
+           <p>{props.name}</p>
            <p>{props.designation}</p>
            <p>{props.desc}</p>
         </div>

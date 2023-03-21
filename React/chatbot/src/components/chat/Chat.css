@@ -1,6 +1,7 @@
 
 .chat{
-    background: white;
+    background: #dde1e7;
+    height: 100vh;
 }
 
 .input{
@@ -12,4 +13,14 @@
     background: #a7f1de;
     outline: none;
     font-size: 16px;
+}
+
+.chat .font{
+    display:flex;
+    flex-direction: column;
+    justify-content: "center";
+    align-items: center;
+    height:85vh;
+    padding-top: 10px;
+    font-size: 14px,
 }

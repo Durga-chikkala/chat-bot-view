@@ -1,0 +1,28 @@
+.box{
+    width:70%;
+    height:60px;
+    border-radius:50px;
+    background: #dde1e7;
+    box-sizing: border-box;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+    margin: auto;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.box li{
+    list-style: none;
+   
+}
+
+.frequent-questions{
+    background: #dde1e7;
+}
+
+.clicked{
+    visibility: visible;
+}
+
+.not{
+    visibility:hidden;
+}

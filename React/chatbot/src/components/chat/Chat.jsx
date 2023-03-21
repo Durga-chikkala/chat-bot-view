@@ -41,30 +41,18 @@ function Chat(props ) {
     }
 
     return (
-
         <div className='chat'> 
             <div>
                 <Navbar />
             </div>
-            <div className='font'
-                style={{
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: "center",
-                    alignItems: "center",
-                    height:"80vh",
-                    paddingTop: '10px',
-                    fontSize: '14px',
-                }}>
-                
-
+            <div className='font'>
                 <div style={{
                     flexGrow: 1,
                     overflow: 'auto',
                     width: '80%',
                     borderRadius: '8px',
                     marginBottom: '1rem',
-                }}>
+            }}>
                     {messages.map((message, index) => (
                         <div
                             key={index}
@@ -72,6 +60,7 @@ function Chat(props ) {
                                 display: 'flex',
                                 flexDirection: message.user === 'me' ? 'row-reverse' : 'row',
                                 marginBottom: '0.5rem',
+                                color:"red",
                             }}
                         >
                             <div
@@ -79,16 +68,13 @@ function Chat(props ) {
                                     padding: '0.5rem 1rem',
                                     borderRadius: message.user === 'me' ? '0 8px 8px 8px' : '8px 8px 8px 0',
                                     backgroundColor: message.user === 'me' ? 'white' : '',
-                                    color: message.user === 'me' ? '#fff' : '#000',
+                                    color: message.user === 'me' ? 'red' : '#000',
                                     maxWidth: '75%',
                                     boxShadow: '0 2px 2px rgba(0, 0, 0, 0.1)',
                                 }}
                             >
                                 {message.text}
                             </div>
-
-
-
 
                         </div>
                     ))}

@@ -8,6 +8,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import NotFound from './components/NotFound/NotFound';
 import Aboutus from './components/AboutUs/Aboutus';
 import Chat from './components/chat/Chat';
+import FetchData from './components/DataFetch/FetchData';
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
             <Route path="/Home" element={<Home/>} > </Route>
             <Route path="/chat" element={<Chat/>} > </Route>
             <Route path="/about-us" element={<Aboutus/>} > </Route>
+            <Route path="/frequent-questions" element={<FetchData/>}></Route>
             <Route path="*" element={<NotFound/>}></Route>
           </Routes>
         </BrowserRouter>
