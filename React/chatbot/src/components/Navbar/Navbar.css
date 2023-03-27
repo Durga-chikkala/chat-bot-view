@@ -53,3 +53,7 @@
 .nav-right .link.active{
     font-weight: bolder;
  }
+
+ .logout{
+    cursor: pointer;
+ }

@@ -3,7 +3,9 @@ import "./login.css"
 import Loginlogo from "../../images/login-logo.png"
 import { useState ,useEffect} from 'react'
 import {useNavigate } from 'react-router-dom';
-import useFetch from '../useFetch/useFetch';
+import axios from 'axios'; 
+
+
 
 function Login() {
   const navigate=useNavigate()
@@ -25,6 +27,24 @@ function Login() {
     
   let url = 'http://localhost:8000/user/login?' + query;
 
+  const response = await axios.get(url,{ headers: {
+    'Content-Type': 'application/json',
+    
+  },withCredentials:true}, 
+  );
+ 
+  if(response.data.id===""){
+    console.log(response.data)
+
+    setError(true)
+    navigate("/")
+  }
+  
+  
+  localStorage.setItem("id",response.data.id)
+  localStorage.setItem("token",response.data.token)
+  navigate("/home")
+
   }
 
   useEffect(() => {
@@ -44,6 +64,7 @@ function Login() {
               <p>Hey, How do you do ?</p>
               <p id="error" className={setError?"not-error":"error"}></p>
             </div>
+            <div className={error?"error":"none"}>Incorrect credentials</div>
              <input type="text" placeholder='enter email' value={email} onChange={(e)=>setEmail(e.target.value)}></input>
              <input type="password" placeholder='enter password' value={password} onChange={(e)=>setPassword(e.target.value)}></input>
              <button className='button'>Login</button>

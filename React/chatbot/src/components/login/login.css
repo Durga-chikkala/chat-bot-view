@@ -140,3 +140,11 @@
 .login-box .text{
     text-align: center;
 }
+
+.error {
+    visibility: visible;
+}
+
+.none{
+    visibility: hidden;
+}

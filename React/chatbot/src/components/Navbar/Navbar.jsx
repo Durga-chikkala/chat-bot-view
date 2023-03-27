@@ -17,7 +17,7 @@ function Navbar() {
           <NavLink to="/home" className="link">Home</NavLink>
           <NavLink to="/chat" className="link">Chat</NavLink>
           <NavLink to="/about-us" className="link">About us</NavLink>
-          <div className='logout'>
+          <div className='logout' onClick={()=>{localStorage.clear(); window.location.reload(false)}}>
             logout
           </div>
           <CgProfile style={{fontSize:"26px",cursor:"pointer"}} onClick={() => setClickButton(!clickButton)}/>
